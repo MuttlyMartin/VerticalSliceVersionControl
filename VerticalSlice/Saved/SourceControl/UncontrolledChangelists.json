@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Joshua Martin-Clegg/Documents/GitHub/VerticalSliceVersionControl/VerticalSlice/Content/CharacterBP/BP_Character1.uasset",
+				"C:/Users/Joshua Martin-Clegg/Documents/GitHub/VerticalSliceVersionControl/VerticalSlice/Content/Dynamic/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/Joshua Martin-Clegg/Documents/GitHub/VerticalSliceVersionControl/VerticalSlice/Content/CharacterBP/BP_Character2.uasset",
+				"C:/Users/Joshua Martin-Clegg/Documents/GitHub/VerticalSliceVersionControl/VerticalSlice/Content/Dynamic/ThirdPerson/Maps/Debut-SkyScraperMap.umap",
+				"C:/Users/Joshua Martin-Clegg/Documents/GitHub/VerticalSliceVersionControl/VerticalSlice/Content/CharacterBP/lambert2.uasset",
 				"C:/Users/Jmcnamara5/Repository/VerticalSliceVersionControl/VerticalSlice/Content/CharacterBP/BP_Character1.uasset",
 				"C:/Users/Jmcnamara5/Repository/VerticalSliceVersionControl/VerticalSlice/Content/CharacterBP/fbx_base_mesh_PhysicsAsset.uasset",
 				"C:/Users/Jmcnamara5/Repository/VerticalSliceVersionControl/VerticalSlice/Content/CharacterBP/lambert2.uasset",
