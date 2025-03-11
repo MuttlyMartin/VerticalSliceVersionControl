@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Jmcnamara5/Repository/VerticalSliceVersionControl/VerticalSlice 5.4/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Jmcnamara5/Repository/VerticalSliceVersionControl/VerticalSlice 5.4/Content/Dynamic/ThirdPerson/Maps/Debut-SkyScraperMap.umap",
+				"C:/Users/Jmcnamara5/Repository/VerticalSliceVersionControl/VerticalSlice 5.4/Content/Dynamic/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
 				"C:/Users/Joshua/OneDrive - UCLan/UE_Projects/VerticalSlice/VerticalSliceVersionControl/VerticalSlice/Content/Static/LevelPrototyping/Textures/T_GridChecker_A.uasset",
 				"C:/Users/Joshua/OneDrive - UCLan/UE_Projects/VerticalSlice/VerticalSliceVersionControl/VerticalSlice/Content/Static/LevelPrototyping/Materials/MF_ProcGrid.uasset",
 				"C:/Users/Joshua/OneDrive - UCLan/UE_Projects/VerticalSlice/VerticalSliceVersionControl/VerticalSlice/Content/Static/LevelPrototyping/Materials/M_PrototypeGrid.uasset",
