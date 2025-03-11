@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Jmcnamara5/Repository/VerticalSliceVersionControl/VerticalSlice/Content/CharacterBP/BP_Character1.uasset",
+				"C:/Users/Jmcnamara5/Repository/VerticalSliceVersionControl/VerticalSlice/Content/CharacterBP/fbx_base_mesh_PhysicsAsset.uasset",
+				"C:/Users/Jmcnamara5/Repository/VerticalSliceVersionControl/VerticalSlice/Content/CharacterBP/lambert2.uasset",
 				"C:/Users/Jmcnamara5/Repository/VerticalSliceVersionControl/VerticalSlice 5.4/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/Jmcnamara5/Repository/VerticalSliceVersionControl/VerticalSlice 5.4/Content/Dynamic/ThirdPerson/Maps/Debut-SkyScraperMap.umap",
 				"C:/Users/Jmcnamara5/Repository/VerticalSliceVersionControl/VerticalSlice 5.4/Content/Dynamic/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
