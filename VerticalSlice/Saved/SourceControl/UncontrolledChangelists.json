@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Jmcnamara5/Documents/VerticalSliceVersionControl/VerticalSlice/Content/Dynamic/CharacterFiles/CharacterBP/BP_Character1.uasset",
+				"C:/Users/Jmcnamara5/Documents/VerticalSliceVersionControl/VerticalSlice/Content/Static/Skyscraper/Skyscraper_Map.umap",
+				"C:/Users/Jmcnamara5/Documents/VerticalSliceVersionControl/VerticalSlice/Content/Dynamic/CharacterFiles/Characters/Custom/fbx_base_mesh_PhysicsAsset.uasset",
 				"C:/Program Files/Epic Games/UE_5.4/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/HueShift_Mat.uasset",
 				"C:/Users/Joshua Martin-Clegg/Documents/GitHub/VerticalSliceVersionControl/VerticalSlice/Content/__ExternalActors__/Dynamic/Debut-SkyScraperMap/7/F5/YZ5Q1IETE1ZJJK27XKFOE1.uasset",
 				"C:/Users/Joshua Martin-Clegg/Documents/GitHub/VerticalSliceVersionControl/VerticalSlice/Content/__ExternalActors__/Dynamic/Debut-SkyScraperMap/1/9T/TOA0NJPYGMBWWXAPU0Z4Q1.uasset",
